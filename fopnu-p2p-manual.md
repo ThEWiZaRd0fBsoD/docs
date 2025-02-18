@@ -1,6 +1,6 @@
 # 关于 Fopun
 
-Fopnu 是一款 P2P 文件共享系统，作者是来自加拿大的实名上网兼练习时长达二十年的老P2P网络软件开发者——[凯文·赫恩](https://www.patreon.com/kevinhearn)。
+Fopnu 是一款 P2P 文件共享系统，作者是来自加拿大的实名上网兼练习时长达二十年的老P2P网络软件开发者——[凯文·赫恩](https://www.patreon.com/kevinhearn)。
 
 他的另外两款作品是你可能听说过但没用过的高性能 BT 客户端[“Tixati”](https://en.wikipedia.org/wiki/Tixati)；和充满历史感但仍然坚挺的老P2P软件：[“WinMX”](https://en.wikipedia.org/wiki/WinMX)。
 
@@ -10,14 +10,14 @@ Fopnu 是一款 P2P 文件共享系统，作者是来自加拿大的实名上�
 
 # 如何使用 Fopun
 
-**软件下载→[ Fopnu官方网站](https://www.fopnu.com/download/ )**
+**软件下载→[ Fopnu官方网站](https://www.fopnu.com/download/ )**
 
 Portable为免安装便携版，Linux 系统下有提供deb、rpm安装包，也同时提供预编译二进制包。
 
 如需使用命令行安装请查看软件官方安装说明。
 
 初次使用，需要设置你的用户名和一个UDP端口，然后稍加等待客户端与索引网络建立连接即可（连接状态表示为客户端页面的红绿灯）。
- 
+
 接下来简单介绍一下 Fopun 这个软件的功能。
 
 文件库（Library）：点击“Add”，可以选择你本地的文件夹共享到 Fopun 网络的索引系统中，这部分和做种时候一样，Hash过程是本地完成的。
@@ -29,7 +29,7 @@ Portable为免安装便携版，Linux 系统下有提供deb、rpm安装包，也
 传输（Transfers）：顾名思义，这个页面显示的是你当前正在下载或者正在上传的客户端。
 
 带宽（Bandwidth）：顾名也思义，这个页面显示的是客户端当前的上下行带宽用量，带宽页面可以调整下载限制（Limit Incoming）和上行限制（Limit Outgoing）。
- 
+
 **一些补充说明， Fopun 这个软件的定位不是一种P2P文件下载客户端，而是一种去中心化的网络系统；启动客户端，意味着你的设备和网络会成为系统内的一个节点；因此建议各位分享一些文件，而不是纯伸手呢。**
 
 **Fopun 的传输连接是完全加密的，并具有一些前向纠错功能和去中心化公钥系统（一些使用过hy2，即我们通常称呼为歇斯底里/Hysteria 2的的用户对这点应该很熟悉）**。
